@@ -2,7 +2,7 @@ Here you can find a **Javascript** implementation of the **Java** program writte
 
 One of my favourite subjects in computer science is algorithms and data structures. To people who might be reading this and are also interested in
 this subject, I strongly recommend reading the books of Robert Sedgewick on this subject. The books are also backed by a very good website:
-http://algs4.cs.princeton.edu/ and several coursera.org courses like: **Algorithms, Part I** and **II** and **Analysis of Algorithms** (look here https://www.coursera.org/instructor/~211)
+http://algs4.cs.princeton.edu/ and several **coursera.org** courses like: **Algorithms, Part I** and **II** and **Analysis of Algorithms** (look here https://www.coursera.org/instructor/~211)
 
 One of the areas where these courses can be applied is to create a **Brownian motion simulator** with literally millions of particles!!!
 You can find such a system implemented in the Java programming language on: http://algs4.cs.princeton.edu/61event/. The author calls it an Event Driven Simulator.
