@@ -7,8 +7,6 @@ http://algs4.cs.princeton.edu/ and several **coursera.org** courses like: **Algo
 One of the areas where these courses can be applied is to create a **Brownian motion simulator** with literally millions of particles!!!
 You can find such a system implemented in the Java programming language on: http://algs4.cs.princeton.edu/61event/. The author calls it an Event Driven Simulator.
 
-You can check out this code if you want to see how such a system might be implemented in javascript rather than java...
-
 Coding is just half of the thing and I strongly suggest to really understand the ideas of an event driven system first, in particular:
 
 * What are priority queues(you can find this here: http://algs4.cs.princeton.edu/24pq/  and https://www.youtube.com/watch?v=G9TMe0KC0w0&list=PLxc4gS-_A5VDXUIOPkJkwQKYiT2T1t0I8&index=34)
